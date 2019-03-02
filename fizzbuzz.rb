@@ -5,5 +5,5 @@
 def fizzbuzz(num)
   if(num % 5 == 0 && mun % 3 == 0)
     return "FizzBuzz"
-
+  end
 end
